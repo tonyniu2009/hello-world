@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for fucking</h1>
+    <h1>New user Register for ffffucking</h1>
     <p>Please dont fucking fill in this form to create an account.</p>
     <hr>
      
